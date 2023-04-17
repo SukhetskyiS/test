@@ -1,8 +1,8 @@
 {
-  "name": "goit-test",
+  "name": "test",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://SukhetskyiS.github.io/test_task",
+  "homepage": "https://SukhetskyiS.github.io/test",
   "type": "module",
   "scripts": {
     "dev": "vite",
